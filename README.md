@@ -24,4 +24,34 @@ Optional Bonus (you do not need to make this test pass): My markdown previewer i
 ---
 ## What?
 
-As explained above, it is one of the projects required for the completion of the Front End Development Libraries on [freeCodeCamp.org](https://www.freecodecamp.org/).
+As explained above, it is one of the projects required for the completion of the Front End Development Libraries on [freeCodeCamp.org](https://www.freecodecamp.org/). You can view this app on [Netlify](https://fcc-mdpreview.netlify.app/) or run it locally.
+
+Clone this repo and run
+
+```bash
+npm install
+# or
+pnpm install
+# or
+bun install
+```
+
+Then, to run the development server
+
+```bash
+npm run dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Or, run the build
+
+```bash
+npm run build
+# or
+pnpm build
+# or
+bun build
+```
